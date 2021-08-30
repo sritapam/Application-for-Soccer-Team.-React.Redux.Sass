@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# My firt commit.
 
 Hi everyone!!! 
 here, my first aplication with React, Redux and Sass..
